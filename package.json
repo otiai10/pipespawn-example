@@ -1,0 +1,25 @@
+{
+  "name": "pipespawn-example",
+  "version": "1.0.0",
+  "description": "An example for how to pipe stdout/stdin between multiple child_processes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "otiai10",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/otiai10/pipespawn-example.git"
+  },
+  "keywords": [
+    "child_process",
+    "spawn",
+    "pipe",
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/otiai10/pipespawn-example/issues"
+  },
+  "homepage": "https://github.com/otiai10/pipespawn-example#readme"
+}

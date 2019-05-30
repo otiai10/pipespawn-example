@@ -1,0 +1,6 @@
+Ochiai 200
+otiai10 300
+FOO 500
+otiai20 400
+BAA 600
+Hiromu 100
